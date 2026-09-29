@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno Militão! 👋
 
-💻 Atualmente, trabalho como controlador de acesso e estou construindo minha trajetória na área de tecnologia.
+💻 Atualmente, trabalho como Agente de portaria e estou construindo minha trajetória na área de tecnologia.
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (EAD)**, com curso de Lógica de Programação concluído.
 
